@@ -1,16 +1,22 @@
-## Hi there 👋
+<img width="1024" height="401" alt="image" src="https://github.com/user-attachments/assets/4d995f20-4dea-4021-a093-85b85bac30e1" />
 
-<!--
-**anthonytvrs/anthonytvrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Professional with over 6 years of experience in Customer Support and Project Management, specializing in Brazil’s regulatory and consumer-protection ecosystem. I have a proven track record of managing high-stakes interactions with the Central Bank of Brazil (BCB), Consumidor.gov.br, and Reclame Aqui, leading Ombudsman (Ouvidoria) initiatives to drive fair, compliant, and customer-centric resolutions.
 
-Here are some ideas to get you started:
+Currently, I am bridging the gap between customer advocacy and technology. While pursuing my graduate studies in Database: Analysis, Mining, and Data Engineering at Universidade Presbiteriana Mackenzie, I have achieved key certifications that empower me to transform raw data into strategic insights:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Databricks Fundamentals Accreditation: Knowledge in Lakehouse architecture and modern data engineering workflows.
+
+Python for Data Analysis, Data Science, and Machine Learning: Hands-on experience in using Python to solve complex analytical problems.
+
+Python for AI Applications: Skilled in applying Python basics to AI-driven solutions.
+
+Scala's Fundamentals.
+
+<img width="1024" height="401" alt="image" src="https://github.com/user-attachments/assets/4fc6f44b-48ae-4739-a990-000d39b800a6" />
+
+Certified with FEBRABAN 200, I combine structured problem-solving and root-cause analysis with data engineering principles to elevate service quality, mitigate risks, and foster continuous improvement. My goal is to leverage data insights to build more efficient, transparent, and intelligent customer experiences.
+
+<img width="1024" height="401" alt="image" src="https://github.com/user-attachments/assets/ac83582e-5dec-4000-83bc-2bab6692eef3" />
+
+https://www.linkedin.com/in/antonio-tavares-7951061b2/
+
